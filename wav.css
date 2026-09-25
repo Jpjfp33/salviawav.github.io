@@ -14,3 +14,8 @@
     height: auto;
 }
 
+body {
+
+    background: radial_gradient(circle at center, black, darkmagenta);
+}
+
