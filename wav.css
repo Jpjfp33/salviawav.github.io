@@ -18,14 +18,18 @@ body {
 
     background: radial-gradient(circle at center, black, darkmagenta);
     text-align: center;
+    font-family: "Special Elite", monospace;
 }
 
 .description {
     max-width: 600px;
     margin: 40px auto;
-    font-family: "Space Mono", monospace;
     font-size: 18px;
     line-height: 1.6;
     color: white;
 }
+
+.headers {
+
+    color: white;
 
