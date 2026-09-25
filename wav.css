@@ -9,15 +9,8 @@
     width: 100px;
 }
 
-.logo-main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 30px;
-}
-
-.logo-main img {
-    width: 400px;
-    height: 200px;
+.logo-container .logo-main {
+    width: 200px;
+    height: auto;
 }
 
